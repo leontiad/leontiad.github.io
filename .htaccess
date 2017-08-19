@@ -1,0 +1,7 @@
+DirectoryIndex index.html
+
+
+Redirect /http://www.leontiadis.org http://www.eurecom.fr/~leontiad
+Redirect /leontiadis.org http://www.eurecom.fr/~leontiad
+
+
