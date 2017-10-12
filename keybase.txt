@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/leontiad
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://leontiad.github.io
+  * I am leontiad (https://keybase.io/leontiad) on keybase.
+  * I have a public key ASBIJF3jj5rppNFBCWLP1BpK78sjU_RHTL84uNp_PhQqeAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012048245de38f9ae9a4d1410962cfd41a4aefcb2353f4474cbf38b8da7f3e142a780a",
+      "host": "keybase.io",
+      "kid": "012048245de38f9ae9a4d1410962cfd41a4aefcb2353f4474cbf38b8da7f3e142a780a",
+      "uid": "ac490d97fbc6fb4e98642f9bb5df7d19",
+      "username": "leontiad"
+    },
+    "merkle_root": {
+      "ctime": 1507799060,
+      "hash": "e7286f275374f5dd28469fc0157bcb8304c823230553a0b3fd54a99e6891d4ba7faaf463889ab9277706f863052bfc7e278292de16fb9bdbcd4906e22e13359f",
+      "hash_meta": "481ed1a2c60b6f4cad150da7d2eef5b01c4188b2f875cf3ec5e9b03940e377f4",
+      "seqno": 1564012
+    },
+    "service": {
+      "hostname": "leontiad.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.34"
+  },
+  "ctime": 1507799072,
+  "expire_in": 504576000,
+  "prev": "2f9fdfe2610e2d254e96817f5897a947792d595ea8c8cdc95b33cfa55d374f2b",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgSCRd44+a6aTRQQliz9QaSu/LI1P0R0y/OLjafz4UKngKp3BheWxvYWTFA0p7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNDgyNDVkZTM4ZjlhZTlhNGQxNDEwOTYyY2ZkNDFhNGFlZmNiMjM1M2Y0NDc0Y2JmMzhiOGRhN2YzZTE0MmE3ODBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNDgyNDVkZTM4ZjlhZTlhNGQxNDEwOTYyY2ZkNDFhNGFlZmNiMjM1M2Y0NDc0Y2JmMzhiOGRhN2YzZTE0MmE3ODBhIiwidWlkIjoiYWM0OTBkOTdmYmM2ZmI0ZTk4NjQyZjliYjVkZjdkMTkiLCJ1c2VybmFtZSI6Imxlb250aWFkIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTA3Nzk5MDYwLCJoYXNoIjoiZTcyODZmMjc1Mzc0ZjVkZDI4NDY5ZmMwMTU3YmNiODMwNGM4MjMyMzA1NTNhMGIzZmQ1NGE5OWU2ODkxZDRiYTdmYWFmNDYzODg5YWI5Mjc3NzA2Zjg2MzA1MmJmYzdlMjc4MjkyZGUxNmZiOWJkYmNkNDkwNmUyMmUxMzM1OWYiLCJoYXNoX21ldGEiOiI0ODFlZDFhMmM2MGI2ZjRjYWQxNTBkYTdkMmVlZjViMDFjNDE4OGIyZjg3NWNmM2VjNWU5YjAzOTQwZTM3N2Y0Iiwic2Vxbm8iOjE1NjQwMTJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoibGVvbnRpYWQuZ2l0aHViLmlvIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzQifSwiY3RpbWUiOjE1MDc3OTkwNzIsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiMmY5ZmRmZTI2MTBlMmQyNTRlOTY4MTdmNTg5N2E5NDc3OTJkNTk1ZWE4YzhjZGM5NWIzM2NmYTU1ZDM3NGYyYiIsInNlcW5vIjo2LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQEqILK/rrMK/30Ip3sZp0Yi6fegWQNOiHb4M7Km5TwVBhAelOQcVWdpUkZeVyZE3QzektUD2K3+e/02a5F5FoAyoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCABoxavRjYQOMZnPnCY+bFi1JTMBB3og0ZEQXD9whQsnaN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/leontiad
+
+==================================================================
