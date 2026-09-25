@@ -1,0 +1,13 @@
+# Iraklis Leontiadis
+> Cryptographer and Head Security Architect at Silence Laboratories. PhD (2015, EURECOM/Telecom ParisTech) on secret computing.
+
+## Work
+- Silence Laboratories (current), ZenGo, Anoma/Namada, Parfin, Inpher, EPFL, INRIA, NJIT, University of Arizona
+
+## Talks
+- Decentralized Key Management via Threshold Signing – Cedarcrypt 2026
+- Deploying 2-Party ECDSA in the Wild – OSCW 2024 (co-located with RWC)
+
+## Links
+- Publications: https://scholar.google.com/citations?user=Amj6n68AAAAJ
+- GitHub: https://github.com/leontiad
